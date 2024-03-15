@@ -13,3 +13,6 @@ AWS Amplify demo
 ## amplify init
 
 
+## amplify add api
+- Choose REST
+
