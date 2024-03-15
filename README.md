@@ -19,3 +19,6 @@ AWS Amplify demo
 ## amplify push
 A REST API endpoint will be shown in console: https://6um9u64bxg.execute-api.ap-south-1.amazonaws.com/dev
 We can get the same url from api gateway dev stage deployment
+
+## npm i aws-amplify @aws-amplify/ui-react
+Handy library to call backend api
