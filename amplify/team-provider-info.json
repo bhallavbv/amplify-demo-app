@@ -13,7 +13,13 @@
     },
     "categories": {
       "function": {
-        "CustomerHandler": {}
+        "CustomerHandler": {
+          "deploymentBucketName": "amplify-amplifydemoapp-dev-161629-deployment",
+          "s3Key": "amplify-builds/CustomerHandler-7a622b3363416f636f64-build.zip"
+        }
+      },
+      "api": {
+        "amplifyDemoRestApi": {}
       }
     }
   }
